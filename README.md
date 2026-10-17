@@ -1,6 +1,6 @@
 # Sync World Time - Project Zomboid
 
-![](https://github.com/cyber-punk/Sync-World-Time/tree/master/Contents/mods/SyncWorldTime/poster.png?raw=true)
+![](https://github.com/cyber-punk/Sync-World-Time/blob/master/Contents/mods/SyncWorldTime/poster.png?raw=true)
 
 ## Made for Multiplayer & Singleplayer
 
