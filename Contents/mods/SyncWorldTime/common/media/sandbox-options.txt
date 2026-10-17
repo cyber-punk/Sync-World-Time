@@ -1,0 +1,23 @@
+VERSION = 1,
+
+option SyncWorldTime.disabled = {
+	type = boolean,
+	default = false,
+	page = SyncWorldTime,
+	translation = SyncWorldTime_disabled,
+}
+
+option SyncWorldTime.syncWorldWithSystemTime = {
+	type = boolean,
+	default = false,
+	page = SyncWorldTime,
+	translation = SyncWorldTime_syncWorldWithSystemTime,
+}
+
+option SyncWorldTime.utcOffset = {
+	type = enum,
+	default = 15,
+	numValues = 38,
+	page = SyncWorldTime,
+	translation = SyncWorldTime_utcOffset,
+}

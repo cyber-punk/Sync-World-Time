@@ -1,0 +1,44 @@
+{
+  "UI_SetDate": "Set Date",
+  "UI_SetTime": "Set Time",
+  "UI_SyncTime": "Sync to System Time",
+  "UI_Close": "Close",
+
+  "UI_ConfirmSyncTime": "Synchronize world time with system time ?",
+
+  "UI_Month_0": "January",
+  "UI_Month_0_short": "Jan",
+
+  "UI_Month_1": "February",
+  "UI_Month_1_short": "Feb",
+
+  "UI_Month_2": "March",
+  "UI_Month_2_short": "Mar",
+
+  "UI_Month_3": "April",
+  "UI_Month_3_short": "Apr",
+
+  "UI_Month_4": "May",
+  "UI_Month_4_short": "May",
+
+  "UI_Month_5": "June",
+  "UI_Month_5_short": "Jun",
+
+  "UI_Month_6": "July",
+  "UI_Month_6_short": "Jul",
+
+  "UI_Month_7": "August",
+  "UI_Month_7_short": "Aug",
+
+  "UI_Month_8": "September",
+  "UI_Month_8_short": "Sep",
+
+  "UI_Month_9": "October",
+  "UI_Month_9_short": "Oct",
+
+  "UI_Month_10": "November",
+  "UI_Month_10_short": "Nov",
+
+  "UI_Month_11": "December",
+  "UI_Month_11_short": "Dec"
+}
